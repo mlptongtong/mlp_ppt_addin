@@ -116,7 +116,7 @@
 该功能需要首先完成注册，登陆后才可使用。
 Public中是通用PPT模板和素材，是所有人可以使用的公共资源，可以通过搜索框查找相应的模板。
 
-
+<img src="https://github.com/jakkielong/mlp_ppt_addin/blob/master/pic/18.png" width="200" height="200" alt="install package"/><br/>
 
 Private是专属模板和素材，是关联到具体账户的资源，只有本人可以使用，同时提供删除功能，以及分享到公共资源中的功能。
 
