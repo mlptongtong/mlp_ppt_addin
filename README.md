@@ -3,7 +3,7 @@
 
 1. 首先解压压缩包，先关闭所有PPT程序，再双击setup.exe，如果电脑有杀毒软件禁止安装exe，可以双击MLP_PPT.vsto进行安装：
 
-![image text](http://www.allmlp.com/#/blogs/blogdetail?id=255/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsIA…AAiRAAiRAAiRAApkk8H/ytK/zRTyZwAAAAABJRU5ErkJggg== "DBSCAN Performance Comparison")
+![image text](https://github.com/jakkielong/mlp_ppt_addin/tree/master/pic/1.png "install package")
 
 
 2. 点击Install/安装：
